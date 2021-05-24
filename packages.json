@@ -34,5 +34,9 @@
     {
         "package": "sabre",
         "url": "https://github.com/nowosad/sabre"
+    },
+    {
+        "package": "motif",
+        "url": "https://github.com/nowosad/motif"
     }
 ]
