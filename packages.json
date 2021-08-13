@@ -1,5 +1,9 @@
 [
     {
+        "package": "regional",
+        "url": "https://github.com/nowosad/regional"
+    },
+    {
         "package": "supercells",
         "url": "https://github.com/nowosad/supercells"
     },
