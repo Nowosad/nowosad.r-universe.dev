@@ -42,5 +42,9 @@
     {
         "package": "motif",
         "url": "https://github.com/nowosad/motif"
+    },
+    {
+        "package": "geostatbook",
+        "url": "https://github.com/nowosad/geostatbook"
     }
 ]
