@@ -50,5 +50,9 @@
     {
         "package": "bespatial",
         "url": "https://github.com/nowosad/bespatial"
+    },
+    {
+        "package": "simsam",
+        "url": "https://github.com/nowosad/simsam"
     }
 ]
